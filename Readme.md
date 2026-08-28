@@ -1,7 +1,7 @@
 # Ligtify
 
 ## What is Ligtify? 
-Ligtify is a music streaming site that uses the API to use Spotify on older devices, which Spotify is known to cause bugs.
+Ligtify is a music streaming site that uses Spotify on older devices, which Spotify is known to cause bugs.
 
 ## Why "Lightify"?
 Ligtify is short for "Lighter Spotify". 
